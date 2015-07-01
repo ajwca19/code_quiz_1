@@ -1,0 +1,23 @@
+div{
+  width:960px;
+  margin:0 auto;
+}
+.bodypara {
+  font-family: verdana;
+}
+ul {
+  font-family:arial;
+  color:#FF4422;
+}
+
+body {
+  background: url(checkered_pattern.png);
+}
+
+img {
+  width:480px;
+}
+
+h1 {
+  text-align:center;
+}
